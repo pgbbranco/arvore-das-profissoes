@@ -1,16 +1,17 @@
 # Como fiz a atividade
 
-## Árvore
-[Como escolhi os familiares, reuni os relatos e ajustei o modelo.]
+## Árvore das profissões
 
-## Uso da IA
-Prompt preparado para o Miro: [ler prompt](prompt-miro.txt).
+Preparei no Miro uma árvore com três gerações e espaço para as fichas dos familiares. Usei este [prompt inicial](prompt-miro.txt).
 
-[Registrar os pedidos realmente utilizados na pesquisa.]
+## O que precisei ajustar
 
-| Resposta ou elemento que precisei revisar | Como conferi | O que corrigi e por quê |
-| --- | --- | --- |
-| [Trecho real ou detalhe do diagrama] | [Fonte ou comparação] | [Minha alteração] |
+O Miro repetiu a árvore em vários quadros, um para cada ficha. Eu queria clicar em uma pessoa e continuar vendo a árvore inteira enquanto lia sobre o trabalho dela. Pedi uma árvore única com um painel lateral que mostrasse a ficha da pessoa selecionada.
+
+## Relatos e pesquisa
+
+A preencher depois das conversas com a família e da escolha das três profissões. Vou registrar as fontes consultadas e as correções que fizer durante a pesquisa.
 
 ## Aprendizado
-[Que influência familiar percebi? Como ela se relaciona com minhas âncoras?]
+
+[Que influência familiar percebi? Como ela se relaciona com minhas âncoras de carreira?]
