@@ -2,11 +2,7 @@
 
 ## Árvore das profissões
 
-Preparei no Miro uma árvore com três gerações e espaço para as fichas dos familiares. Usei este [prompt inicial](prompt-miro.txt).
-
-## O que precisei ajustar
-
-O Miro repetiu a árvore em vários quadros, um para cada ficha. Eu queria clicar em uma pessoa e continuar vendo a árvore inteira enquanto lia sobre o trabalho dela. Pedi uma árvore única com um painel lateral que mostrasse a ficha da pessoa selecionada.
+Montei no Canva uma árvore com três gerações da minha família, mostrando o nome, a profissão e uma tarefa relacionada ao trabalho de cada pessoa.
 
 ## Relatos e pesquisa
 
@@ -14,4 +10,4 @@ A preencher depois das conversas com a família e da escolha das três profissõ
 
 ## Aprendizado
 
-[Que influência familiar percebi? Como ela se relaciona com minhas âncoras de carreira?]
+[Que influência familiar percebi? O que aprendi ao comparar as profissões da minha família?]
