@@ -19,4 +19,4 @@ Esta pesquisa reúne as três ocupações escolhidas na árvore. Os efeitos da i
 
 ## Observação
 
-As fontes mostram tendências gerais do Brasil e exemplos da COPASA; elas não descrevem todos os detalhes do trabalho dos meus familiares. As possibilidades futuras sobre IA foram identificadas como projeções para não serem confundidas com fatos já comprovados.
+As fontes mostram tendências gerais do Brasil; elas não descrevem todos os detalhes do trabalho dos meus familiares. As possibilidades futuras sobre IA foram identificadas como projeções para não serem confundidas com fatos já comprovados.
