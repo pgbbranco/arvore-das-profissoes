@@ -1,2 +1,0 @@
-# Minhas âncoras de carreira
-
