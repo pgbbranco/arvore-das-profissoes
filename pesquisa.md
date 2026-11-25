@@ -1,18 +1,22 @@
 # Pesquisa das profissões
 
-Escolha três profissões da árvore. Para cada afirmação, abra a fonte e confira se ela sustenta o texto. Identifique previsões como projeções.
+Esta pesquisa reúne as três ocupações escolhidas na árvore. Os efeitos da inteligência artificial para os próximos dez anos são **projeções**, não certezas.
 
-## 1. [Profissão]
+## 1. Criadora de conteúdo para e-commerce — minha mãe
 
-- No Brasil, nos últimos 20 anos: [mudança e exemplo]. Fonte: [título, instituição, data e URL].
-- Nos próximos 10 anos, a IA poderá: [projeção e tarefa afetada]. Fonte: [título, instituição, data e URL].
+- **Mudança no Brasil:** nos últimos anos, redes sociais e plataformas digitais passaram a ser canais importantes para empresas divulgarem e venderem produtos. A pesquisa TIC Empresas mostra que, em 2023, 40% das pequenas empresas que venderam pela internet usaram redes sociais como canal de venda. Isso ampliou a importância de produzir fotos, vídeos, textos e informações de produtos para o comércio online. A pesquisa mede o uso das empresas, não a quantidade de criadores de conteúdo. Fontes: [“A ‘Plataformania’ no cenário empresarial brasileiro” — Ipea](https://www.ipea.gov.br/cts/pt/central-de-conteudo/artigos/artigos/402-a-plataformania-no-cenario-empresarial-brasileiro) e [TIC Empresas 2023 — Cetic.br](https://cetic.br/pt/noticia/apos-crescimento-provocado-pela-pandemia-pequenos-negocios-no-pais-ainda-tem-presenca-online-limitada-revela-tic-empresas-2023/).
+- **Projeção para os próximos dez anos:** ferramentas de IA generativa podem ajudar a criar rascunhos de descrições, legendas e ideias de imagens, além de acelerar edições simples. A pessoa ainda precisa conferir se as informações do produto estão corretas, se o conteúdo combina com a marca e se não induz o cliente ao erro. A OIT aponta que IA generativa pode automatizar parte de tarefas de mídia e web, mas tende a transformar muitas ocupações em vez de eliminar todo o trabalho. Fontes: [“Generative AI and jobs: A 2025 update” — OIT](https://www.ilo.org/publications/generative-ai-and-jobs-2025-update) e [Produtores de conteúdo — Secom](https://www.gov.br/secom/pt-br/assuntos/publicidade/meios/internet/produtores-de-conteudo).
 
-## 2. [Profissão]
+## 2. Metalúrgico — meu avô Aristeu
 
-- No Brasil, nos últimos 20 anos: [mudança e exemplo]. Fonte: [título, instituição, data e URL].
-- Nos próximos 10 anos, a IA poderá: [projeção e tarefa afetada]. Fonte: [título, instituição, data e URL].
+- **Mudança no Brasil:** a metalurgia passou por automação e digitalização de etapas da produção. Máquinas e sistemas de controle passaram a apoiar tarefas como monitorar processos, operar equipamentos e verificar a qualidade; o trabalho também exige mais conhecimentos de segurança e tecnologia. Fonte: [Indústria 4.0 — Serviço Nacional de Aprendizagem Industrial (SENAI)](https://www.portaldaindustria.com.br/senai/canais/industria-4-0/).
+- **Projeção para os próximos dez anos:** a IA poderá apoiar a manutenção preventiva, analisando dados de sensores para identificar falhas ou desgaste em máquinas e equipamentos antes de uma parada. Essa é uma possibilidade: o metalúrgico ainda poderá precisar inspecionar, ajustar e reparar equipamentos, seguindo regras de segurança. A OIT aponta que a IA generativa tende a transformar tarefas de muitas ocupações, sem necessariamente substituir o trabalho inteiro. Fontes: [Indústria 4.0 — SENAI](https://www.portaldaindustria.com.br/senai/canais/industria-4-0/) e [“Generative AI and jobs: A 2025 update” — OIT](https://www.ilo.org/publications/generative-ai-and-jobs-2025-update).
 
-## 3. [Profissão]
+## 3. Dona de casa — minha avó Ana Maria
 
-- No Brasil, nos últimos 20 anos: [mudança e exemplo]. Fonte: [título, instituição, data e URL].
-- Nos próximos 10 anos, a IA poderá: [projeção e tarefa afetada]. Fonte: [título, instituição, data e URL].
+- **Mudança observada:** ser dona de casa envolve trabalho doméstico e de cuidado não remunerado, diferente de trabalhar como empregada doméstica remunerada. Não encontrei uma série oficial que compare exatamente essa ocupação ao longo de 20 anos. O IBGE passou a divulgar dados específicos sobre afazeres domésticos e cuidados na PNAD Contínua em 2016. Entre 2016 e 2019, a média semanal das mulheres ficou entre 20,9 e 21,4 horas; em 2019, mulheres sem ocupação fora do domicílio dedicaram em média 24 horas semanais a essas tarefas. Em 2024, a Política Nacional de Cuidados reconheceu a importância de apoiar e redistribuir também o cuidado não remunerado. Fontes: [PNAD Contínua 2016 — IBGE](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/18566-pnad-continua-2016-90-6-das-mulheres-e-74-1-dos-homens-realizaram-afazeres-domesticos-ou-cuidados-de-pessoas), [PNAD Contínua 2019 — IBGE](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/27877-em-media-mulheres-dedicam-10-4-horas-por-semana-a-mais-que-os-homens-aos-afazeres-domesticos-ou-ao-cuidado-de-pessoas) e [Política Nacional de Cuidados — Governo Federal](https://www.gov.br/mulheres/pt-br/central-de-conteudos/noticias/2024/dezembro/politica-nacional-de-cuidados-e-sancionada-pelo-presidente-lula).
+- **Projeção para os próximos dez anos:** assistentes com IA podem ajudar com listas, planejamento de refeições, lembretes e organização de tarefas. Isso é uma possibilidade, não uma previsão comprovada sobre o trabalho da minha avó; cuidar da casa e de pessoas também envolve esforço físico, decisões e atenção humana. A OIT observa que a IA generativa tende a transformar tarefas, e não necessariamente substituir ocupações inteiras. Fonte: [“Generative AI and jobs: A 2025 update” — OIT](https://www.ilo.org/publications/generative-ai-and-jobs-2025-update).
+
+## Observação
+
+As fontes mostram tendências gerais do Brasil e exemplos da COPASA; elas não descrevem todos os detalhes do trabalho dos meus familiares. As possibilidades futuras sobre IA foram identificadas como projeções para não serem confundidas com fatos já comprovados.
